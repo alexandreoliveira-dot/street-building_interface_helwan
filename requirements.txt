@@ -1,0 +1,13 @@
+geopandas
+momepy
+osmnx
+networkx
+mapclassify
+scikit-learn
+libpysal
+folium
+matplotlib
+numpy
+pandas
+shapely
+fiona
